@@ -1,0 +1,28 @@
+.login-box {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: antiquewhite;
+    padding: 20px 10px;
+    margin:auto;
+    border-radius: 5px;
+}
+.submit {
+ text-align: center;
+}
+.para-2{
+text-align: center;
+}
+.signup-box {
+width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: antiquewhite;
+    padding: 20px 10px;
+    margin:auto;
+    border-radius: 5px;
+    margin-top: 100px;
+}
+

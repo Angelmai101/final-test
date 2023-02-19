@@ -1,0 +1,29 @@
+[
+    {
+        "id":"1",
+        "card":"card1",
+        "img":"https://blogs.iadb.org/ideas-matter/wp-content/uploads/sites/12/2019/09/gender-inequality-Latin-America-long-road.jpg",
+        "title":"Why is it important to end gender inequality?",
+        "detail":"Gender equality prevents violence against women and girls. It's essential for economic prosperity. Societies that value women and men as equal are safer and healthier. Gender equality is a human right.",
+        "href":"web.html",
+        "italic":"Everyone is being mistreated because of their gender and they can't speak up for themselves."
+    },
+    {
+        "id":"2",
+        "card":"card2",
+        "img":"https://www.un.org/sustainabledevelopment/wp-content/uploads/2018/05/E_SDG-goals_icons-individual-rgb-05.png",
+        "title":"Goal 5: Achieve gender equality and empower all women and girls",
+        "detail":"Gender equality is not only a fundamental human right, but a necessary foundation for a peaceful, prosperous and sustainable world. There has been progress over the last decades, but the world is not on track to achieve gender equality by 2030.",
+        "href":"https://www.un.org/sustainabledevelopment/gender-equality/",
+        "italic":"Equal rights and opportunities for girls and boys help all children fulfil their potential."
+    },
+    {
+        "id":"3",
+        "card":"card3",
+        "img":"https://i.pinimg.com/736x/c9/3a/70/c93a70129aa0a6c114444a68dffa2e89.jpg",
+        "title":"Gender inequality affects everyone!",
+        "detail":"Gender inequality affects everyone, including men. Stereotypes or rules about how women and men, girls and boys should be begin in childhood and follow us through to adulthood. The situation is worse, and often different, for people who face more than one type of discrimination.",
+        "href":"https://www.vic.gov.au/gender-inequality-affects-everyone",
+        "italic":"Everyone is affected by gender inequality. Gender roles and stereotypes impact Victorians throughout their lives."
+    }
+]
